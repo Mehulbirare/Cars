@@ -3,20 +3,20 @@
 
 A sophisticated React Native mobile application for exploring, comparing, and managing cars, car brands, and spare parts.
 
-## 🚗 Features
+ 🚗 Features
 
-### Authentication
+Authentication
 
 - User registration and login functionality
 - Secure authentication system
 - Profile management
 
-### Core Features
+Core Features
 
-- **Home Dashboard**: Interactive dashboard displaying featured cars and latest updates
-- **Brand Exploration**: Browse and explore different car brands
-- **Car Models**: View detailed car models for each brand
-- **Car Details**:
+- Home Dashboard**: Interactive dashboard displaying featured cars and latest updates
+- Brand Exploration**: Browse and explore different car brands
+- Car Models**: View detailed car models for each brand
+- Car Details**:
   - Comprehensive car specifications
   - High-quality car images
   - Key features and highlights
@@ -24,49 +24,49 @@ A sophisticated React Native mobile application for exploring, comparing, and ma
   - Pricing information
   - Mileage and transmission details
 
-### Additional Features
+ Additional Features
 
-- **Favorites System**: Save and manage favorite cars
-- **Spare Parts Marketplace**:
+- Favorites System**: Save and manage favorite cars
+- Spare Parts Marketplace**:
   - Browse various car parts
   - Categories include:
     - Braking System
     - Engine Components
     - Ignition System
     - Electrical System
-- **Theme Support**:
+- Theme Support**:
   - Dynamic theme switching
   - Dark and light mode support
-- **Font Customization**: Customize app typography
+- Font Customization**: Customize app typography
 
-### Navigation
+ Navigation
 
 - Intuitive drawer navigation
 - Smooth transitions between screens
 - Easy-to-use interface
 
-## 🛠 Technical Stack
+ 🛠 Technical Stack
 
-- **Framework**: React Native
-- **Navigation**: React Navigation v6
-  - Drawer Navigation
-  - Stack Navigation
-- **State Management**: MobX
-- **UI Components**: Custom-built React Native components
-- **Styling**: React Native StyleSheet
-- **Icons**: Material Icons
-- **Performance**: Optimized with FlashList for efficient list rendering
+- Framework: React Native
+- Navigation: React Navigation v6
+- Drawer Navigation
+- Stack Navigation
+- State Management: MobX
+- UI Components: Custom-built React Native components
+- Styling: React Native StyleSheet
+- Icons: Material Icons
+- Performance: Optimized with FlashList for efficient list rendering
 
-## 📱 Platform Support
+ 📱 Platform Support
 
 - iOS
 - Android
 
-# Getting Started
+ Getting Started
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+> Note: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
-## Step 1: Start Metro
+Step 1: Start Metro
 
 First, you will need to run **Metro**, the JavaScript build tool for React Native.
 
